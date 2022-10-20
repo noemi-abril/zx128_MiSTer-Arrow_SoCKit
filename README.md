@@ -1,4 +1,4 @@
-Author Kyp069 - URL: https://github.com/Kyp069/zx128-MiSTer
+Author @Kyp069 - URL: https://github.com/Kyp069/zx128-MiSTer
 
 <h3>Alternative ZX Spectrum 128K FPGA implementation for MiSTer</h3>
 
